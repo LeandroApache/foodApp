@@ -1,4 +1,4 @@
-import {View, Text, ScrollView} from "react-native";
+
 import SearchBar from "../components/SearchBar";
 import {useEffect, useState} from "react";
 import useRestaurants from "../hooks/useRestaurants";
